@@ -1,2 +1,2 @@
-# packer-vcd-builder
+# packer/vcd/builder
 A Packer vCloud Director builder plugin
